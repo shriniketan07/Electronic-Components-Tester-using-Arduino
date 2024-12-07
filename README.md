@@ -10,4 +10,4 @@ This repository contains the code and documentation for building an electronic c
  - Button Interface: Simple interface for selecting the component to test.
  - Display: Results are shown on a 16x2 LCD or OLED display.
 
-![Circuit Diagram](image.png)
+![Circuit Diagram](component_tester.png)
