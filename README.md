@@ -9,3 +9,5 @@ This repository contains the code and documentation for building an electronic c
  - LED Testing: Checks if an LED is functional and lights it up.
  - Button Interface: Simple interface for selecting the component to test.
  - Display: Results are shown on a 16x2 LCD or OLED display.
+
+![Circuit Diagram](image.png)
